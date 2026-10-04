@@ -79,6 +79,12 @@ The program uses the files in the `data/` directory by default. You can also pro
 ./flight_route_planner cities.dat flights.dat requests.dat
 ```
 
+## Demo
+
+The terminal output below shows the project compiling successfully with `make`, loading the flight network, and generating a complete itinerary from Atlanta to San Diego.
+
+![C++ Flight Route Planner terminal demo](terminal-demo.png)
+
 ## Example Itinerary
 
 A request from Atlanta to San Diego produces:
